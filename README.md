@@ -1,1 +1,1 @@
-# Study
+# StudyThis is my Study repository
